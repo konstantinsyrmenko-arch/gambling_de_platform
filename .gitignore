@@ -20,10 +20,6 @@ airflow_metadata_backup.sql
 data/
 reports/
 
-# Private assignment materials
-TZ.pdf
-docs/
-
 # IDE and OS
 .idea/
 .vscode/
