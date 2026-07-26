@@ -1,0 +1,11 @@
+# Airflow providers
+apache-airflow-providers-celery==3.12.2
+apache-airflow-providers-postgres==6.2.3
+apache-airflow-providers-common-sql==1.27.5
+
+# Database clients
+psycopg[binary]==3.3.4
+clickhouse-connect==1.6.0
+
+# Visualization
+plotly==6.9.0

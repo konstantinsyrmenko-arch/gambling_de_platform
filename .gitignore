@@ -1,0 +1,34 @@
+# Local secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+.venv/
+
+# Airflow runtime data
+airflow/logs/
+airflow-build.log
+airflow_metadata_backup.sql
+
+# Generated data and reports
+data/
+reports/
+
+# Private assignment materials
+TZ.pdf
+docs/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log

@@ -1,0 +1,17 @@
+.git
+.env
+.pytest_cache
+.ruff_cache
+.venv
+**/__pycache__
+**/*.py[cod]
+
+airflow/logs
+data
+reports
+
+airflow-build.log
+airflow_metadata_backup.sql
+TZ.pdf
+docs
+.DS_Store
