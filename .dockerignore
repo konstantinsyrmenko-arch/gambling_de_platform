@@ -12,6 +12,4 @@ reports
 
 airflow-build.log
 airflow_metadata_backup.sql
-TZ.pdf
-docs
 .DS_Store
